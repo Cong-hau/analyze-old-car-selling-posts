@@ -1,0 +1,513 @@
+brand,carmodel,mean_km,num_posts
+Acura,CL,50277.5,2
+Acura,Dòng khác,142283.5,2
+Acura,Legend,100000.0,1
+Acura,MDX,85370.14285714286,14
+Acura,ZDX,183733.33333333334,3
+Alfa Romeo,159,100000.0,1
+Alfa Romeo,GT,686868.0,1
+Alfa Romeo,Spider,95000.0,1
+Asia,Dòng khác,38933.333333333336,3
+Aston Martin,Dòng khác,110941.0,2
+Audi,A1,80660.66666666667,3
+Audi,A3,199991.0,3
+Audi,A4,53606.166666666664,18
+Audi,A5,55000.0,4
+Audi,A6,65714.23809523809,21
+Audi,A7,74800.0,5
+Audi,A8,74571.71428571429,7
+Audi,Cabriolet,630000.0,1
+Audi,Dòng khác,46000.0,1
+Audi,Q2,69500.0,2
+Audi,Q3,56993.5,8
+Audi,Q5,67932.75,20
+Audi,Q7,74725.16216216216,37
+Audi,Q8,14200.0,5
+Audi,S8,12000.0,1
+Audi,TT,73714.28571428571,7
+BMW,1 Series,67259.8,5
+BMW,2 Series,200000.0,1
+BMW,3 Series,79358.98013245034,151
+BMW,4 Series,45533.333333333336,15
+BMW,5 Series,69289.72151898734,79
+BMW,6 Series,55500.0,4
+BMW,7 Series,70671.54166666667,24
+BMW,Dòng khác,72759.64,25
+BMW,M couper,68000.0,1
+BMW,M3,63000.0,1
+BMW,M4,100000.0,1
+BMW,X1,67729.55555555556,27
+BMW,X2,35000.0,1
+BMW,X3,78277.77777777778,9
+BMW,X4,77666.66666666667,3
+BMW,X5,103294.05882352941,17
+BMW,X6,79416.66666666667,12
+BMW,X7,20000.0,1
+BMW,Z4,5365.142857142857,7
+BMW,i8,30000.0,1
+BYD,Dòng khác,164327.0,2
+Baic,Beijing X7,53600.0,10
+Bentley,Bentayga,6000.0,1
+Bentley,Continental,90446.8,5
+Bentley,Flying Spur,55833.333333333336,6
+Bentley,Mulsanne,55000.0,1
+Buick,Dòng khác,55500.0,2
+Cadillac,CTS,123569.0,1
+Cadillac,Escalade,60000.0,1
+Cadillac,SRX,408333.3333333333,3
+Changan,Honor,100000.0,1
+Chery,Dòng khác,50000.0,1
+Chery,QQ3,471901.3333333333,3
+Chevrolet,Aveo,88609.16666666667,42
+Chevrolet,Camaro,40666.666666666664,3
+Chevrolet,Captiva,124290.0,99
+Chevrolet,Chevyvan,56.0,1
+Chevrolet,Colorado,98674.29166666667,144
+Chevrolet,Cruze,93219.61111111111,108
+Chevrolet,Dòng khác,111800.0,5
+Chevrolet,Lacetti,73511.88888888889,27
+Chevrolet,Lumina,123456.0,1
+Chevrolet,Matiz,56214.181818181816,11
+Chevrolet,Orlando,51588.3,10
+Chevrolet,Spark,92192.78723404255,235
+Chevrolet,Trailblazer,52435.46,50
+Chevrolet,Trax,45000.0,1
+Chevrolet,Vivant,87959.69230769231,13
+Chrysler,300C,130000.0,1
+Chrysler,Dòng khác,60000.0,1
+Chrysler,PTcruise,44000.0,1
+Citroen,CX,12345.0,1
+Citroen,Dòng khác,12266.0,1
+Daewoo,Arcadia,4000.0,1
+Daewoo,Cielo,156441.66666666666,6
+Daewoo,Dòng khác,270543.0,8
+Daewoo,Espero,56172.5,2
+Daewoo,Gentra,85990.21621621621,37
+Daewoo,GentraX,89522.14285714286,7
+Daewoo,Karando,127000.0,1
+Daewoo,Lacetti,131314.95238095237,105
+Daewoo,Lanos,164986.29824561405,57
+Daewoo,Leganza,113396.5,6
+Daewoo,Magnus,96710.44444444444,18
+Daewoo,Matiz,115404.58490566038,106
+Daewoo,Nubira,130236.86363636363,44
+Daewoo,Tico,1234.0,1
+Daihatsu,Charade,20000.0,1
+Daihatsu,Citivan,84111.0,9
+Daihatsu,Dòng khác,52737.0,7
+Daihatsu,Terios,63202.4,5
+Dodge,Journey,138666.66666666666,3
+Dodge,Ram,10000.0,1
+Ferrari,California,35000.0,1
+Ferrari,Dòng khác,130000.0,2
+Fiat,500,36500.0,2
+Fiat,Albea,254814.66666666666,6
+Fiat,Doblo,170000.0,4
+Fiat,Dòng khác,14224.75,4
+Fiat,Siena,174004.35294117648,17
+Fiat,Tempra,200000.0,3
+Ford,Aspire,10000.0,1
+Ford,Bronco,40000.0,1
+Ford,Crown victoria,227000.0,1
+Ford,Dòng khác,118072.46153846153,26
+Ford,EcoSport,62284.65925925926,270
+Ford,Escape,120464.16666666667,90
+Ford,Escort,57707.666666666664,3
+Ford,Everest,77174.46247464503,493
+Ford,Explorer,58437.79069767442,43
+Ford,Express,18000.0,1
+Ford,F 150,45285.57142857143,7
+Ford,Fiesta,59174.4,65
+Ford,Focus,79768.77889447236,199
+Ford,Focus C Max,90000.0,1
+Ford,Fucion,124357.0,1
+Ford,Laser,118018.0,40
+Ford,Maverick,73000.0,1
+Ford,Mondeo,130017.58333333333,48
+Ford,Mustang,44400.0,5
+Ford,Ranger,73053.89098532495,954
+Ford,Tempo,9999.0,1
+Ford,Territory,94500.0,18
+Ford,Tourneo,41300.13043478261,23
+Ford,Transit,134830.56390977444,133
+Ford,Wind star,72491.4,5
+Gaz,Gazele,1.0,1
+Geely,Emgrand,123.0,1
+Haima,2,6789.0,1
+Haima,3,7000.0,1
+Hãng khác,Dòng khác,97482.48091603053,131
+Honda,Accord,153088.43373493975,83
+Honda,BR-V,14000.0,1
+Honda,Brio,22033.372881355932,59
+Honda,CR V,57107.20138888889,288
+Honda,CR X,148500.0,2
+Honda,City,46524.78929765886,299
+Honda,Civic,59060.613772455086,334
+Honda,Dòng khác,39906.25,4
+Honda,HR-V,42967.74137931035,58
+Honda,Insight,76000.0,1
+Honda,Jazz,82981.75,12
+Honda,Legend,125000.0,2
+Honda,Odyssey,78500.0,4
+Honda,Prelude,555555.0,1
+Hyundai,Accent,49952.18296529968,317
+Hyundai,Avante,147628.16,25
+Hyundai,Azera,85000.0,1
+Hyundai,Click,82199.5,4
+Hyundai,County,278537.0,6
+Hyundai,Coupe,120000.0,1
+Hyundai,Creta,71250.0,20
+Hyundai,Dòng khác,68959.32,25
+Hyundai,Elantra,44751.73777777778,225
+Hyundai,Eon,85000.0,2
+Hyundai,Fadil,1000000.0,1
+Hyundai,Galloper,124304.5,4
+Hyundai,Genesis,102053.80769230769,26
+Hyundai,Getz,149339.7142857143,42
+Hyundai,Gold,69228.0,2
+Hyundai,Grand Starex,132317.2962962963,27
+Hyundai,Grand i10,80822.34152334153,407
+Hyundai,Grandeur,107947.0,1
+Hyundai,H 1,51251.25,4
+Hyundai,Kona,42137.362068965514,116
+Hyundai,Lantra,999999.0,1
+Hyundai,Libero,96166.66666666667,3
+Hyundai,Mighty,83831.0,1
+Hyundai,Santa Fe,59162.303621169915,359
+Hyundai,Solati,120752.54545454546,11
+Hyundai,Sonata,121562.71052631579,38
+Hyundai,Starex,207240.04,25
+Hyundai,Terracan,359500.0,4
+Hyundai,Tucson,49910.34782608696,253
+Hyundai,Universe,216666.66666666666,3
+Hyundai,Veloster,69269.53846153847,13
+Hyundai,Veracruz,111250.0,4
+Hyundai,Verna,54246.8,5
+Hyundai,eMighty,117333.33333333333,3
+Hyundai,i20,70622.15384615384,26
+Hyundai,i30,83660.11111111111,18
+Infiniti,FX,70000.0,1
+Infiniti,Q60,85000.0,2
+Infiniti,QX60,75000.0,1
+Infiniti,QX80,73000.0,2
+Isuzu,D Cargo,30000.0,1
+Isuzu,Dmax,96522.46511627907,43
+Isuzu,Dòng khác,144670.66666666666,3
+Isuzu,Hi lander,113965.55263157895,38
+Isuzu,Mu X,90083.09090909091,44
+Isuzu,NLR,130.0,1
+Isuzu,NMR,4900.0,1
+Isuzu,Pick up,34505.0,2
+Isuzu,QKR,57507.0,2
+Isuzu,Rodeo,50000.0,1
+Isuzu,Trooper,175666.66666666666,3
+Jaguar,Dòng khác,50000.0,1
+Jaguar,F PACE,54000.0,1
+Jaguar,XE,47500.0,2
+Jaguar,XF,71560.0,2
+Jaguar,XJ series,79500.0,2
+Jeep,A2,256851.6,5
+Jeep,CJ,8014.666666666667,3
+Jeep,Dòng khác,193316.0,5
+Jeep,Wrangler,36950.0,4
+Kia,Avella,79000.0,1
+Kia,CD5,181907.27272727274,22
+Kia,Cadenza,26500.0,2
+Kia,Carens,95688.53164556962,79
+Kia,Carnival,61512.31343283582,67
+Kia,Cerato,52079.94193548387,310
+Kia,Cerato Koup,67675.28571428571,14
+Kia,Dòng khác,76829.80952380953,42
+Kia,Enterprise,75000.0,1
+Kia,Forte,102872.56097560975,41
+Kia,Jeep,18888.0,1
+Kia,K3,66378.94736842105,114
+Kia,K5,31165.0,26
+Kia,Morning,97826.94736842105,513
+Kia,Optima,129184.08333333333,12
+Kia,Picanto,88278.0,13
+Kia,Pride,138810.38888888888,18
+Kia,Quoris,70000.0,1
+Kia,Ray,62000.0,1
+Kia,Rio,74825.20833333333,48
+Kia,Rondo,67280.67123287672,73
+Kia,Sedona,74350.85542168675,166
+Kia,Seltos,36736.20183486238,109
+Kia,Soluto,34672.522388059704,67
+Kia,Sonet,36204.30434782609,23
+Kia,Sorento,65369.86928104575,153
+Kia,Soul,101000.0,5
+Kia,Spectra,90688.11111111111,18
+Kia,Sportage,55004.1724137931,58
+Lada,2106,35000.0,1
+Lamborghini,Dòng khác,150.0,1
+Lamborghini,Urus,15000.0,1
+LandRover,Defender,52449.5,2
+LandRover,Discovery,46021.28571428572,7
+LandRover,Dòng khác,90000.0,1
+LandRover,Freelander,88000.0,1
+LandRover,Range Rover,53793.72727272727,33
+LandRover,Range Rover Evoque,65029.54054054054,37
+LandRover,Range Rover Sport,91571.42857142857,7
+LandRover,Range Rover Velar,14000.0,6
+LandRover,Range Rover Vogue,58750.0,4
+Lexus,Dòng khác,22499.5,2
+Lexus,ES,56198.11320754717,53
+Lexus,GS,79019.92307692308,13
+Lexus,GX,80187.5625,16
+Lexus,HS,90000.0,1
+Lexus,IS,46464.166666666664,18
+Lexus,LS,79103.88461538461,26
+Lexus,LX,88927.54,50
+Lexus,NX,53083.333333333336,12
+Lexus,RX,52079.71428571428,126
+Lifan,520,49280.5,4
+Lifan,Dòng khác,22500.0,2
+Lincoln,Navigator,37084.0,2
+Luxgen,7 MPV,64684.0,2
+Luxgen,Dòng khác,68000.0,1
+Luxgen,M7,94263.0,3
+Luxgen,U7,68083.33333333333,3
+MG,5,40266.666666666664,3
+MG,Dòng khác,89333.33333333333,3
+MG,HS,14751.25,8
+MG,ZS,21891.75,16
+Maserati,Ghibli,15000.0,1
+Maserati,Granturismo,48000.0,1
+Maserati,Levante,40000.0,1
+Maybach,Dòng khác,80.0,1
+Mazda,2,62521.1,80
+Mazda,3,59451.66512702079,433
+Mazda,323,157421.52777777778,36
+Mazda,323F,143000.0,2
+Mazda,5,124918.58333333333,12
+Mazda,6,75352.34246575342,146
+Mazda,626,125420.91304347826,23
+Mazda,929,1000000.0,1
+Mazda,BT 50,80679.01652892563,121
+Mazda,CX 3,22428.571428571428,7
+Mazda,CX 5,53008.071225071224,351
+Mazda,CX 7,35000.0,1
+Mazda,CX 8,38152.142857142855,63
+Mazda,CX 9,194429.7142857143,7
+Mazda,CX-30,16542.068965517243,29
+Mazda,Dòng khác,152563.375,8
+Mazda,MX 3,42900.0,5
+Mazda,MX 6,80000.0,1
+Mazda,Premacy,35965.0,4
+Mazda,Tribute,116482.5,2
+Mekong,Dòng khác,167037.0,3
+Mekong,Paso,72695.33333333333,3
+Mekong,Pronto,98929.66666666667,3
+Mercedes Benz,190,86500.0,2
+Mercedes Benz,A Class,76694.30769230769,13
+Mercedes Benz,C Class,56251.92195121951,410
+Mercedes Benz,CL Class,66166.66666666667,6
+Mercedes Benz,CLA Class,73020.16,25
+Mercedes Benz,CLK Class,90000.0,1
+Mercedes Benz,CLS Class,93000.0,6
+Mercedes Benz,Dòng khác,150366.31707317074,41
+Mercedes Benz,E Class,50305.72398190045,221
+Mercedes Benz,G Class,46724.625,8
+Mercedes Benz,GL Class,162557.83333333334,12
+Mercedes Benz,GLA Class,74639.71428571429,14
+Mercedes Benz,GLB,11457.142857142857,7
+Mercedes Benz,GLC,38518.2,185
+Mercedes Benz,GLC Class,26484.633027522937,109
+Mercedes Benz,GLE Class,68277.77777777778,18
+Mercedes Benz,GLK Class,94781.58823529411,17
+Mercedes Benz,GLS Class,30559.809523809523,21
+Mercedes Benz,MB,273924.28571428574,7
+Mercedes Benz,Maybach,123180.3,10
+Mercedes Benz,R Class,148689.0,6
+Mercedes Benz,S Class,53566.98387096774,124
+Mercedes Benz,SL Class,50250.0,2
+Mercedes Benz,SLK Class,90.0,1
+Mercedes Benz,Sprinter,217054.32258064515,31
+Mercedes Benz,V Class,61666.666666666664,3
+Mercedes Benz,Vaneo,33557.0,1
+Mercedes Benz,Vito,101500.0,2
+Mini,Cooper,60000.0,5
+Mini,One,28000.0,1
+Mitsubishi,Attrage,62955.207920792076,101
+Mitsubishi,Diamante,140000.0,1
+Mitsubishi,Dòng khác,79991.22222222222,9
+Mitsubishi,GTO,12560.0,1
+Mitsubishi,Galant,200000.0,2
+Mitsubishi,Grandis,107425.44444444444,27
+Mitsubishi,Jolie,124398.75409836066,122
+Mitsubishi,Lancer,74558.0,16
+Mitsubishi,Mirage,45298.846153846156,13
+Mitsubishi,Outlander,32619.0,176
+Mitsubishi,Outlander Sport,61000.0,3
+Mitsubishi,Pajero,173916.20754716982,53
+Mitsubishi,Pajero Sport,64658.56756756757,74
+Mitsubishi,Triton,77764.95302013423,149
+Mitsubishi,Xpander,55066.409395973154,298
+Mitsubishi,Xpander Cross,35471.74418604651,43
+Mitsubishi,Zinger,70436.35714285714,14
+Nissan,100NX,100000.0,1
+Nissan,300ZX,1200.0,1
+Nissan,350Z,99.0,1
+Nissan,Almera,83783.33333333333,6
+Nissan,Altima,89494.5,2
+Nissan,Bluebird,72997.63636363637,11
+Nissan,Cedric,300000.0,1
+Nissan,Dòng khác,172488.88888888888,9
+Nissan,Grand livina,90183.16666666667,6
+Nissan,Juke,69562.0,3
+Nissan,Livina,112191.4,5
+Nissan,Maxima,106000.0,2
+Nissan,Navara,100440.51351351352,111
+Nissan,Pathfinder,32679.5,2
+Nissan,Pick up,59333.333333333336,3
+Nissan,Pixo,70000.0,1
+Nissan,Prairie,185001.8,5
+Nissan,Qashqai,110000.0,2
+Nissan,Quest,70000.0,1
+Nissan,Rogue,90000.0,1
+Nissan,Stagea,70000.0,1
+Nissan,Sunny,86210.925,40
+Nissan,Teana,91064.4705882353,17
+Nissan,Terrano,93333.33333333333,3
+Nissan,Tiida,109737.66666666667,3
+Nissan,Urvan,200000.0,1
+Nissan,X Terra,39150.0,22
+Nissan,X trail,54106.68965517241,29
+Opel,Corsa,110000.0,1
+Peugeot,2008,22500.0,48
+Peugeot,205,9999.0,1
+Peugeot,208,91000.0,1
+Peugeot,3008,35661.829268292684,41
+Peugeot,308,11000.0,1
+Peugeot,404,100000.0,1
+Peugeot,405,54999.5,2
+Peugeot,408,37200.0,5
+Peugeot,5008,60147.57142857143,49
+Peugeot,505,50000.0,1
+Peugeot,508,56000.0,5
+Peugeot,605,12000.0,1
+Peugeot,Dòng khác,1000000.0,1
+Peugeot,Traveller,9700.0,1
+Pontiac,Solstice,40000.0,1
+Porsche,718,26500.0,2
+Porsche,911,24200.0,6
+Porsche,Boxster,100000.0,1
+Porsche,Cayenne,59492.82142857143,28
+Porsche,Cayman,3000.0,1
+Porsche,Macan,32422.074074074073,27
+Porsche,Panamera,45012.4,25
+Porsche,Taycan,12666.666666666666,3
+Proton,Dòng khác,54999.5,2
+RAM,1500,57000.0,2
+Renault,Sandero,70000.0,1
+Rolls Royce,Phantom,39800.0,1
+Rover,Dòng khác,54500.0,2
+SYM,Dòng khác,99999.0,1
+SYM,T880,62000.0,2
+SYM,V5,225010.0,2
+Samsung,QM5,63845.0,1
+Samsung,SM3,115000.0,1
+Smart,Forfour,100000.0,1
+Smart,Fortwo,123456.0,1
+Ssangyong,Dòng khác,12000.0,1
+Ssangyong,Korando,182378.125,8
+Ssangyong,Kyron,156.0,1
+Ssangyong,Musso,232353.16666666666,6
+Ssangyong,Rexton,159000.0,3
+Ssangyong,Stavic,97889.85714285714,7
+Ssangyong,Tivoli,74361.5,4
+Ssangyong,XLV,204000.0,1
+Subaru,Forester,23261.666666666668,12
+Subaru,Legacy,256890.0,1
+Subaru,Outback,39000.0,2
+Suzuki,APV,83701.75,8
+Suzuki,Aerio,23374.333333333332,3
+Suzuki,Celerio,21587.428571428572,7
+Suzuki,Ciaz,43164.8125,16
+Suzuki,Dòng khác,102124.04838709677,62
+Suzuki,Ertiga,76069.60317460318,63
+Suzuki,Grand vitara,66503.0,4
+Suzuki,Swift,78771.76190476191,42
+Suzuki,Vitara,138533.7037037037,27
+Suzuki,Wagon R+,125485.33333333333,6
+Suzuki,XL 7,45794.64634146341,82
+Toyota,4 Runner,140521.16666666666,12
+Toyota,86,62500.0,4
+Toyota,Allion,250000.0,1
+Toyota,Alphard,26999.833333333332,6
+Toyota,Altezza,11674.0,1
+Toyota,Aristo,89526.0,1
+Toyota,Avanza,81650.0,20
+Toyota,Avensis,123574.0,1
+Toyota,Aygo,108142.71428571429,7
+Toyota,Brevis,120000.0,1
+Toyota,Camry,92556.51048951049,572
+Toyota,Carina,222222.0,1
+Toyota,Celica,100305.5,4
+Toyota,Century,22000.0,1
+Toyota,Chaser,180000.0,1
+Toyota,Corolla,110836.08510638298,47
+Toyota,Corolla Altis,80679.15942028986,276
+Toyota,Corolla Cross,24021.51798561151,139
+Toyota,Corona,167582.9090909091,22
+Toyota,Cressida,149404.5,10
+Toyota,Crown,120328.86666666667,15
+Toyota,Dòng khác,160720.45714285714,35
+Toyota,Fortuner,81560.21480406386,689
+Toyota,Hiace,157993.01785714287,56
+Toyota,Highlander,80804.7,10
+Toyota,Hilux,108788.78787878787,99
+Toyota,Innova,97869.96125907991,826
+Toyota,Land Cruiser,113945.54929577465,71
+Toyota,Land Cruiser Prado,91751.11111111111,45
+Toyota,Liteace,392455.0,2
+Toyota,Mark II,150000.0,1
+Toyota,Prado,117660.83333333333,18
+Toyota,Previa,105335.0,7
+Toyota,Prius,83000.0,4
+Toyota,RAV4,74868.57142857143,14
+Toyota,Raize,35304.458333333336,24
+Toyota,Rush,43123.171428571426,70
+Toyota,Sienna,73157.63333333333,30
+Toyota,Solara,50168.0,1
+Toyota,Tercel,91500.0,2
+Toyota,Townace,150000.0,2
+Toyota,Veloz,54570.04761904762,42
+Toyota,Venza,101751.07407407407,27
+Toyota,Vios,64498.09697732997,794
+Toyota,Wigo,44140.37096774193,62
+Toyota,Wish,144500.0,2
+Toyota,Yaris,60785.446153846155,130
+Toyota,Zace,131493.23333333334,90
+UAZ,Hunter,999999.0,1
+Vinfast,3,7900.0,1
+Vinfast,Dòng khác,73333.33333333333,3
+Vinfast,Fadil,24486.808988764045,178
+Vinfast,Lux,24116.5,2
+Vinfast,Lux A 2.0,29680.544444444444,90
+Vinfast,Lux SA2.0,32263.877192982458,57
+Vinfast,VF5,610000.0,1
+Vinfast,VF8,100000.0,5
+Vinfast,VFe34,40871.45714285714,35
+Volkswagen,Beetle,54086.8,5
+Volkswagen,Dòng khác,123456.0,1
+Volkswagen,Golf,100000.0,1
+Volkswagen,Multivan,99.0,1
+Volkswagen,New Beetle,50000.0,2
+Volkswagen,Passat,49818.333333333336,3
+Volkswagen,Polo,39005.0,9
+Volkswagen,Scirocco,110000.0,2
+Volkswagen,Teramont,19500.0,4
+Volkswagen,Tiguan,40384.90909090909,11
+Volkswagen,Touareg,114157.8,5
+Volvo,850,100000.0,1
+Volvo,940,20000.0,1
+Volvo,Dòng khác,86000.0,2
+Volvo,S60,12000.0,3
+Volvo,S90,23333.333333333332,6
+Volvo,V90 Cross Country,57000.0,1
+Volvo,XC40,24497.666666666668,6
+Volvo,XC60,27665.88888888889,18
+Volvo,XC90,39942.545454545456,11
+Zotye,Dòng khác,31192.666666666668,3
