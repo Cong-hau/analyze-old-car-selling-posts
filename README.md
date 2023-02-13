@@ -411,31 +411,33 @@ dis_hcm.to_csv('posts_groupby_district_hcm.csv', index= False)
 
 <details><summary> Post volumn by brand chart :arrow_down: </summary>
 
-![image](https://github.com/Cong-hau/analyze-old-car-selling-posts/blob/4cf0b981d213f019c3ed5900d489ca337697685a/images/post_brand.png)
+![image](https://github.com/Cong-hau/analyze-old-car-selling-posts/blob/1c9649ee937a2e03d87662cbbe8d31488342f2bc/images/brand's%20post.png)
+
+[Brand's post Dashboard](https://public.tableau.com/app/profile/l.h.u5510/viz/Book1_16759639143440/Dashboard3)
 
 </details>
 
 <details><summary> Post volumn by brand, car model chart :arrow_down: </summary>
 
-![image](https://github.com/Cong-hau/analyze-old-car-selling-posts/blob/4cf0b981d213f019c3ed5900d489ca337697685a/images/post_model.png)
+![image](https://github.com/Cong-hau/analyze-old-car-selling-posts/blob/1c9649ee937a2e03d87662cbbe8d31488342f2bc/images/carmodel's%20post.png)
+
+[Car Model's post Dashboard](https://public.tableau.com/app/profile/l.h.u5510/viz/Book1_16759639143440/Dashboard4)
 
 </details>
 
-<details><summary> Post volumn by city chart :arrow_down: </summary>
+<details><summary> Post volumn by city, district chart :arrow_down: </summary>
 
-![image](https://github.com/Cong-hau/analyze-old-car-selling-posts/blob/4cf0b981d213f019c3ed5900d489ca337697685a/images/post_city.png)
+![image](https://github.com/Cong-hau/analyze-old-car-selling-posts/blob/1c9649ee937a2e03d87662cbbe8d31488342f2bc/images/city's%20post.png)
 
-</details>
-
-<details><summary> Post volumn by district in Ho Chi Minh chart :arrow_down: </summary>
-
-![image](https://github.com/Cong-hau/analyze-old-car-selling-posts/blob/4cf0b981d213f019c3ed5900d489ca337697685a/images/post_dist_hcm.png)
+[City, district Dashboard](https://public.tableau.com/app/profile/l.h.u5510/viz/Book1_16759639143440/Dashboard2)
 
 </details>
 
 <details><summary> Sell ratio chart :arrow_down: </summary>
 
-![image](https://github.com/Cong-hau/analyze-old-car-selling-posts/blob/4cf0b981d213f019c3ed5900d489ca337697685a/images/sell_ratio.png)
+![image](https://github.com/Cong-hau/analyze-old-car-selling-posts/blob/1c9649ee937a2e03d87662cbbe8d31488342f2bc/images/sell%20ratio%202.png)
+
+[Sell Ratio Dashboard](https://public.tableau.com/app/profile/l.h.u5510/viz/Book1_16759639143440/Dashboard5)
 
 </details>
 
