@@ -411,6 +411,14 @@ dis_hcm.to_csv('posts_groupby_district_hcm.csv', index= False)
 
 <details><summary> 5.1. Post volumn by brand chart :arrow_down: </summary>
 
+Insights: 
+- Post's Volumn total: 19.629 posts from 2022 December to 2023 January. This is baseline to compare with post's volumn total in the future, then to identify the market trend. For instance: are there supply of old cars is larger than a particular period or less than?
+- Almost of the brands is sold at 90.000 km average, but look at the most common of brand from Japanese, Korean and United State, car is sold the most at 60.000 - 80.000km. 
+- Top 3 Brand is posted the most. It is related with new car sale reports of these brand year over year. But is this correlate to intention to re-sell car, let's check it by re-sell ratio later. 
+    - The Fisrt: Toyota with 4.295 posts, equal 21.88% per total
+    - The Second: Ford with 2430 posts, equal 12.38% per total.
+    - The Third: Huyndai and Kia with 2.000 posts appropriately, equal 10 % per total.
+
 ![image](https://github.com/Cong-hau/analyze-old-car-selling-posts/blob/1c9649ee937a2e03d87662cbbe8d31488342f2bc/images/brand's%20post.png)
 
 [Brand's post Dashboard](https://public.tableau.com/app/profile/l.h.u5510/viz/Book1_16759639143440/Dashboard3)
@@ -419,6 +427,15 @@ dis_hcm.to_csv('posts_groupby_district_hcm.csv', index= False)
 
 <details><summary> 5.2. Post volumn by brand, car model chart :arrow_down: </summary>
 
+Insights: 
+- Top 5 Carmodel have posted the most for 2 months ago. 
+    - The Fisrt: Ford Ranger with 954 posts.
+    - The Second: Toyota Innova with 826 posts.
+    - The Third: Toyota Vios with 794 posts.
+    - The Fourth: Toyota Furtuner with 689 posts.
+    - The Fifth: Toyota Camry with 572 posts.
+- When looking at new car sale reposts from Vietnam automobile manufacturers' association in few years recently, the buying new car demand is not match with the top 5 Carmodel. Infact, Toyota Innova, Toyota Vios lost market share to Mitsubishi Xpander, Hyundai Accent, Vinfast Fadil and Toyota Fortuner in SUV segment is replaced by released vehicle in SUV and CUV segment, this means people have a lot of options to choose. So, we hypethasized that post voulumn by car model is effected by the available old vehicle supply.
+
 ![image](https://github.com/Cong-hau/analyze-old-car-selling-posts/blob/1c9649ee937a2e03d87662cbbe8d31488342f2bc/images/carmodel's%20post.png)
 
 [Car Model's post Dashboard](https://public.tableau.com/app/profile/l.h.u5510/viz/Book1_16759639143440/Dashboard4)
@@ -426,6 +443,21 @@ dis_hcm.to_csv('posts_groupby_district_hcm.csv', index= False)
 </details>
 
 <details><summary> 5.3. Post volumn by city, district chart :arrow_down: </summary>
+    
+Insights:
+- Post Volumn by region: The southern region market is most vibrant.
+    - Northern: 30.16%
+    - Central: 12.20%
+    - Southern: 57.63%
+- Top 3 city have post volumn the most for 2 months ago:
+    - Ho Chi Minh: 7.486 posts
+    - Ha Noi: 4.789 posts
+    - Binh Duong: 1.382 posts
+- Top 3 district in Ho Chi Minh city have post volumn the most for 2 months ago:
+    - The first: Thu Duc city 1.878 posts
+    - The second: District 7, 810 posts
+    - The third: District 12, 592 posts
+- Look at the stat of Thu Duc city where include 3 old district, these are: District 2, District 9 and Thu Duc District, so if separate all of them, the average posts is 600. We can conclude that the first city is District 7, the rest of outer-district (eg: 2,9,Thu Duc, Tan Binh, Binh Tan, Tan Phu, Go Vap) is about 500-600 posts and the central district (eg: 1,3,5,8,4 dsitrict) is about 100-200 posts.
 
 ![image](https://github.com/Cong-hau/analyze-old-car-selling-posts/blob/1c9649ee937a2e03d87662cbbe8d31488342f2bc/images/city's%20post.png)
 
@@ -434,12 +466,38 @@ dis_hcm.to_csv('posts_groupby_district_hcm.csv', index= False)
 </details>
 
 <details><summary> 5.4. Sell ratio chart :arrow_down: </summary>
+    
+Insights: To know which car tend to re-sell the most, we removed effect of new car sales and created sell ratio to comparision.
+- Top 3 car model which made in 2020 - 2022 tend to re-sell the most :
+    - Mazda CX 30: sell ratio 2.99%, equivalent with 100 new-cars are sold then 3 old-cars are posted to re-sell.
+    - Kia Sedona: 2.601%
+    - Mitsubishi Pajero Sport: 2.230%
+- Top 3 car model which made in 2020 tend to re-sell the most: 
+    - Kia Sedona 2020: sell ratio 2.601%, equivalent with 100 new-cars made in 2020 then 2.6 old-cars are posted to re-sell
+    - Honda Civic 2020: 1.614%
+    - Mitsubishi Outlander 2020: 1.159%
+- Top 3 car model which made in 2021 tend to re-sell the most:
+    - Mazda CX 30 2021: sell ratio 2.99%, equivalent with 100 new-cars made in 2021 then 2.99 old-cars are posted to re-sell
+    - Mitsubishi Pajero Sport 2021: 2.230%
+    - Mitubishi Outlander 2021: 2.256%
+- Top 3 car model which made in 2022 tend to re-sell the most:
+    - Kia Sportage 2022: sell ratio 1.158%, equivalent with 100 new-cars made in 2022 then 1.158 old-cars are posted to re-sell
+    - Kia K5 2022: 1.228%
+    - Mitsubishi Outlander: 0.677%
+- Compare between the top 5 car model is posted the most and sell ratio, we realized that the most posted car model is not the most sell ratio, the posts volumn affect by available supply, instead of intention to re-sell car.
 
 ![image](https://github.com/Cong-hau/analyze-old-car-selling-posts/blob/1c9649ee937a2e03d87662cbbe8d31488342f2bc/images/sell%20ratio%202.png)
 
 [Sell Ratio Dashboard](https://public.tableau.com/app/profile/l.h.u5510/viz/Book1_16759639143440/Dashboard5)
 
 </details>
+
+# 6. Limitations
+
+Because of limitation of resources (such as: time, technology performance) so some key information did not get to analyze. So, the following ideas to improve quality of project in the future:
+- Use high-performance equiments to scrap dynamic content by Selenium - Python and build Etract Transform Load pipelines to get data automatically, make dashboards periodlly
+- Measure losting-price ratio of vehicle by brand, car model and manufacturing year, calculated by the current price and the average of selling price in the past.
+- Search volumn by area, brand, car model to answer: where a particular old car model is searched the most? What the most searching car in Go Vap district?. Then optimize  marketing strategy, target potential customers.
 
 
 
