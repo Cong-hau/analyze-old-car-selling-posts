@@ -5,7 +5,7 @@ I am a member of fascinating marketing team, work for the old car dealer company
 
 ### 1.1. Input: A enthusiasm body without anything: no data, no relative report. :) 
 
-### ✔ 1.2. Output:
+### 1.2. Output:
 1. How is the selling volumn? 
 2. What brand of car, car model is sold the most? By time and By area.
 3. What old car do have sell ratio the most, the least?
